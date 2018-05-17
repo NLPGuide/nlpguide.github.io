@@ -58,7 +58,7 @@ CLEVR
 SQuAD  
 Enron emails  
 [OPUS open parallel corpus](http://opus.nlpl.eu/)  
-[WordNet](https://wordnet.princeton.edu/) 
+[WordNet](https://wordnet.princeton.edu/)  
 [NLTK Corpora](http://www.nltk.org/nltk_data/) 
 
 > For which tasks is there data?  For which languages is there data?
