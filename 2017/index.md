@@ -1,8 +1,9 @@
-# NLP Guide - 2017 in review
+[NLP Guide](../) / 2017
+# 2017
 
 This is an open guide to the noteworthy happenings in natural language processing in 2017.
 
-Want to add or correct?  You are free to send a pull request.
+Want to add or correct?  Send a pull request.
 
 ### Research
 
