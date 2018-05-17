@@ -2,10 +2,22 @@
 
 See also: [2017](/2017)
 
-## Overlap
+## Related fields
 machine learning, linguistics  
 
-## Products
+## Subfields  
+
+## Tasks  
+
+parsing  
+translation  
+named-entity recognition  
+natural language understanding  
+natural language generation  
+speech - recognition, synthesis  
+classification - sentiment analysis, spam detection  
+
+## Applications
 
 translation:  Google, Microsoft, Baidu, Yandex, DeepL, Babelfish  
 agents:  Siri, Google Now, Google Assistant, Amazon Alexa, Microsoft Cortana, IBM Watson
@@ -19,16 +31,17 @@ integrated as recommendations, spam filtering, spelling correction, advert match
 
 ## Libs
 NLTK, Moses, Giza++    
-spaCy, Stanford NLP, Berkeley    
+spaCy, Stanford NLP, Berkeley, TF [syntaxnet](https://github.com/tensorflow/models/tree/master/research/syntaxnet)      
 [Universal Dependencies](http://universaldependencies.org/)  
 [AllenNLP](http://allennlp.org/)  
 THUMT, TF seq2seq, pytorch seq2seq  
-Nuance  
+
 
 > Which programming languages?  C/C++, Java ==> python, NodeJS
 
 ## APIs
-Google Cloud, Azure ML, AWS, IBM, Indico, ABBYY   
+Google Cloud, Azure ML, AWS, IBM
+Nuance, Indico, ABBYY   
 EventRegistry
 
 > How do choose?  Language support (programming and human), latency and price... and last but not least, quality.
@@ -92,8 +105,57 @@ NIPS
 Google IO, F8, AWS DevDay...
 
 ## Competitions
-WMT, conferences
-Kaggle
+WMT, conferences  
+Kaggle [text-data](https://www.kaggle.com/tags/text-data), [linguistics](https://www.kaggle.com/tags/linguistics), [languages](https://www.kaggle.com/tags/languages), [literature](https://www.kaggle.com/tags/literature)  
+annotated datasets like SQuAD and CLEVR
+
+## Learning
+
+### Courses
+
+http://cs224n.stanford.edu / http://cs224d.stanford.edu
+
+https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+
+https://github.com/oxford-cs-deepnlp-2017/lectures
+
+
+### Tutorials
+
+http://thestraightdope.mxnet.io/chapter05_recurrent-neural-networks/simple-rnn.html
+
+http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html
+
+http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+
+https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
+
+
+### Books
+
+[*Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax*](http://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020)  
+2013  
+Emily M. Bender, University of Washington  
+
+[*A Primer on Neural Network Models for Natural Language Processing*](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
+2015 draft  
+Yoav Goldberg, Bar-Ilan University  
+
+[*Speech and Language Processing (3rd ed. draft)*](https://web.stanford.edu/~jurafsky/slp3/)  
+2017 draft  
+Dan Jurafsky, Stanford University  
+James H. Martin, University of Colorado  
+
+[*Foundations of Statistical Natural Language Processing*](https://nlp.stanford.edu/fsnlp/)  
+1999  
+Christopher Manning, Stanford University  
+Hinrich Schütze, University of Munich  
+
+[*Introduction to Information Retrieval*](https://nlp.stanford.edu/IR-book/)  
+2008  
+Christopher Manning, Stanford University  
+Prabhakar Raghavan, Google
+Hinrich Schütze, University of Munich  
 
 
 ## News Sources
@@ -114,27 +176,14 @@ https://plus.google.com/communities/112547995826249627629
 
 https://www.producthunt.com/@bittlingmayer/collections
 
-## Education
+http://nathan.ai
 
-http://cs224n.stanford.edu / http://cs224d.stanford.edu
-
-https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
-
-https://github.com/oxford-cs-deepnlp-2017/lectures
-
-http://thestraightdope.mxnet.io/chapter05_recurrent-neural-networks/simple-rnn.html
-
-http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html
-
-http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
-
-https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
-
-> What is missing?
 
 ## More Reading
 
 http://mitp.nautil.us/article/170/last-words-computational-linguistics-and-deep-learning
+
+http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 
 https://explosion.ai/blog/quora-deep-text-pair-classification  
 
@@ -144,5 +193,5 @@ http://ruder.io/word-embeddings-2017/
 http://approximatelycorrect.com/2017/09/26/a-random-walk-through-emnlp-2017/
 
 https://aiindex.org/  
-http://nathan.ai
+
 
