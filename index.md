@@ -52,11 +52,14 @@ speech recognition, speech synthesis, OCR, handwriting recognition
 ## Datasets  
 Wikipedia, Common Crawl  
 Universal Dependencies  
-Penn Tree Bank
+Penn Tree Bank  
 WMT workshop data  
 CLEVR  
 SQuAD  
 Enron emails  
+OPUS open parallel corpus  
+WordNet  
+NLTK Corpora  
 
 > For which tasks is there data?  For which languages is there data?
 
