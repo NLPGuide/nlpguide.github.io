@@ -6,24 +6,30 @@ See also: [2017](/2017)
 machine learning, linguistics  
 
 ## Products
+
+translation:  Google, Microsoft, Baidu, Yandex, DeepL, Babelfish  
+agents:  Siri, Google Now, Google Assistant, Amazon Alexa, Microsoft Cortana, IBM Watson
+
+Most natural language processing is not standalone products but integrations in nearly all major applications, for example:  
+
 search engines: Google, Bing, Baidu, Yandex  
-marketplaces: eBay, Amazon, Ali Baba
+marketplaces: eBay, Amazon, Ali Baba  
 social networks: Facebook, Twitter, Reddit, Quora, StackExchange  
 integrated as recommendations, spam filtering, spelling correction, advert matching, entity recognition
-
-> What else?
 
 ## Libs
 NLTK, Moses, Giza++    
 spaCy, Stanford NLP, Berkeley    
-Universal Dependencies  
-AllenNLP  
+[Universal Dependencies](http://universaldependencies.org/)  
+[AllenNLP](http://allennlp.org/)  
 THUMT, TF seq2seq, pytorch seq2seq  
+Nuance  
 
 > Which programming languages?  C/C++, Java ==> python, NodeJS
 
 ## APIs
 Google Cloud, Azure ML, AWS, IBM, Indico, ABBYY   
+EventRegistry
 
 > How do choose?  Language support (programming and human), latency and price... and last but not least, quality.
 
@@ -59,11 +65,13 @@ SRI/DARPA
 
 ## Startups
 
+[angel.co/natural-language-processing](https://angel.co/natural-language-processing)
+
+[crunchbase.com/.../natural-language-processing](https://www.crunchbase.com/search/organizations/field/organizations/categories/natural-language-processing)
+
 Unbabel, Lilt, Aylien
 
-https://www.crunchbase.com/search/organizations/field/organizations/categories/natural-language-processing
-
-acquired: Siri (Apple), Viv (Samsung), WordLens (Google), wit.ai (Facebook)
+acquired: Siri (Apple), Viv (Samsung), WordLens (Google), wit.ai (Facebook), 
 
 ## Events
 
