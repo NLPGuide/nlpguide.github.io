@@ -38,7 +38,10 @@ social networks: Facebook, Twitter, Reddit, Quora, StackExchange
 integrated as recommendations, spam filtering, spelling correction, advert matching, entity recognition
 
 ## Libs
-NLTK, Moses, Giza++    
+
+https://github.com/topics/natural-language-processing
+
+NLTK, Moses, Giza++  
 spaCy, Stanford NLP, Berkeley, TF [syntaxnet](https://github.com/tensorflow/models/tree/master/research/syntaxnet)      
 [Universal Dependencies](http://universaldependencies.org/)  
 [AllenNLP](http://allennlp.org/)  
@@ -86,6 +89,11 @@ U Kyoto, Tokyo
 SRI/DARPA
 
 > Who is missing?  Relative to their output in general: Apple, Samsung, eBay, Oracle, Xerox, MIT and Ivy League, Technion, UCx, Switzerland, India, France, Russia and Eastern Europe, OpenAI
+
+## Papers
+
+arXiv cs.CL: [archive](https://arxiv.org/archive/cs.CL) | [recent](https://arxiv.org/list/cs.CL/recent)  
+arXiv cs.LG: [archive](https://arxiv.org/archive/cs.LG) | [recent](https://arxiv.org/list/cs.LG/recent)
 
 ## Startups
 
@@ -182,10 +190,6 @@ http://approximatelycorrect.com/category/natural-language-processing/
 
 http://newsletter.ruder.io/
 
-https://www.reddit.com/r/LanguageTechnology/
-
-https://plus.google.com/communities/112547995826249627629
-
 https://www.producthunt.com/@bittlingmayer/collections
 
 http://nathan.ai
@@ -208,5 +212,10 @@ http://norvig.com/spell-correct.html
 http://norvig.com/chomsky.html  
 
 
+## Fora  
+
+https://www.reddit.com/r/LanguageTechnology/
+
+https://plus.google.com/communities/112547995826249627629
 
 
