@@ -39,14 +39,13 @@ integrated as recommendations, spam filtering, spelling correction, advert match
 
 ## Libs
 
-https://github.com/topics/natural-language-processing
-
 NLTK, Moses, Giza++  
 spaCy, Stanford NLP, Berkeley, TF [syntaxnet](https://github.com/tensorflow/models/tree/master/research/syntaxnet)      
 [Universal Dependencies](http://universaldependencies.org/)  
 [AllenNLP](http://allennlp.org/)  
 THUMT, TF seq2seq, pytorch seq2seq  
 
+GitHub: [natural-language-processing](https://github.com/topics/natural-language-processing), [nlp](https://github.com/topics/nlp)
 
 > Which programming languages?  C/C++, Java ==> python, NodeJS
 
