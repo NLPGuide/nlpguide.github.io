@@ -213,8 +213,19 @@ http://norvig.com/chomsky.html
 
 ## Fora  
 
+[#nlproc](https://twitter.com/search?q=%23nlproc)
+
 https://www.reddit.com/r/LanguageTechnology/
 
 https://plus.google.com/communities/112547995826249627629
+
+http://linguistics.stackexchange.com/
+
+https://stackoverflow.com/questions/tagged/nlp
+
+https://datascience.stackexchange.com/questions/tagged/nlp
+
+https://opendata.stackexchange.com/questions/tagged/nlp
+
 
 
