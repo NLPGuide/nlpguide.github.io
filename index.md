@@ -2,10 +2,18 @@
 
 See also: [2017](/2017)
 
-## Related fields
-machine learning, linguistics  
+TODO: related fields - machine learning, linguistics
+TODO: subfields
 
-## Subfields  
+TODO: guide for engineers vs guide for ML researchers
+
+## Metrics
+
+EFF AI Metrics - Written Language, Spoken Language  
+[eff.org/ai/metrics](https://www.eff.org/ai/metrics)
+
+AI Index - Natural Language Understanding  
+[aiindex.org](https://aiindex.org/2017-report.pdf)
 
 ## Tasks  
 
@@ -108,9 +116,10 @@ NIPS
 Google IO, F8, AWS DevDay...
 
 ## Competitions
-WMT, conferences  
+WMT workshops, conferences  
 Kaggle [text-data](https://www.kaggle.com/tags/text-data), [linguistics](https://www.kaggle.com/tags/linguistics), [languages](https://www.kaggle.com/tags/languages), [literature](https://www.kaggle.com/tags/literature)  
-annotated datasets like SQuAD and CLEVR
+annotated datasets like SQuAD and CLEVR  
+[Winograd Schema Challenge](https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/WS.html) ([wiki](https://en.wikipedia.org/wiki/Winograd_Schema_Challenge))
 
 ## Learning
 
@@ -195,6 +204,9 @@ http://ruder.io/word-embeddings-2017/
 
 http://approximatelycorrect.com/2017/09/26/a-random-walk-through-emnlp-2017/
 
-https://aiindex.org/  
+http://norvig.com/spell-correct.html  
+http://norvig.com/chomsky.html  
+
+
 
 
