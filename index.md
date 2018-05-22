@@ -141,6 +141,8 @@ https://github.com/oxford-cs-deepnlp-2017/lectures
 
 ### Tutorials
 
+https://fasttext.cc/docs/en/supervised-tutorial.html
+
 http://thestraightdope.mxnet.io/chapter05_recurrent-neural-networks/simple-rnn.html
 
 http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html
