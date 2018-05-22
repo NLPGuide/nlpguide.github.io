@@ -1,6 +1,6 @@
 # NLP Guide
 
-See also: [2017](/2017)
+See also: [2018](/2018), [2017](/2017)
 
 TODO: related fields - machine learning, linguistics
 TODO: subfields
