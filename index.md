@@ -45,7 +45,7 @@ integrated as recommendations, spam filtering, spelling correction, advert match
 
 ## Libs
 
-NLTK, Moses, Giza++  
+NLTK, Moses, Giza++, [OpenNLP](https://opennlp.apache.org/)  
 spaCy, Stanford NLP, Berkeley, TF [syntaxnet](https://github.com/tensorflow/models/tree/master/research/syntaxnet)      
 [Universal Dependencies](http://universaldependencies.org/)  
 [AllenNLP](http://allennlp.org/)  
