@@ -15,6 +15,12 @@ EFF AI Metrics - Written Language, Spoken Language
 AI Index - Natural Language Understanding  
 [aiindex.org](https://aiindex.org/2017-report.pdf)
 
+## Language
+
+https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+Note 1: Some major libs and services use non-standard codes.  (For example, Google Translate uses `jw` not `jv` for Javanese, and `iw` not `he` for Hebrew.  
+Note 2: Confusion with country codes is common.
+
 ## Tasks  
 
 parsing  
