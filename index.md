@@ -1,11 +1,25 @@
 # NLP Guide
 
-See also: [2017](/2017)
+See also: [2018](/2018), [2017](/2017)
 
-## Related fields
-machine learning, linguistics  
+TODO: related fields - machine learning, linguistics
+TODO: subfields
 
-## Subfields  
+TODO: guide for engineers vs guide for ML researchers
+
+## Metrics
+
+EFF AI Metrics - Written Language, Spoken Language  
+[eff.org/ai/metrics](https://www.eff.org/ai/metrics)
+
+AI Index - Natural Language Understanding  
+[aiindex.org](https://aiindex.org/2017-report.pdf)
+
+## Language
+
+https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+Note 1: Some major libs and services use non-standard codes.  (For example, Google Translate uses `jw` not `jv` for Javanese, and `iw` not `he` for Hebrew.  
+Note 2: Confusion with country codes is common.
 
 ## Tasks  
 
@@ -30,12 +44,14 @@ social networks: Facebook, Twitter, Reddit, Quora, StackExchange
 integrated as recommendations, spam filtering, spelling correction, advert matching, entity recognition
 
 ## Libs
-NLTK, Moses, Giza++    
+
+NLTK, Moses, Giza++  
 spaCy, Stanford NLP, Berkeley, TF [syntaxnet](https://github.com/tensorflow/models/tree/master/research/syntaxnet)      
 [Universal Dependencies](http://universaldependencies.org/)  
 [AllenNLP](http://allennlp.org/)  
 THUMT, TF seq2seq, pytorch seq2seq  
 
+GitHub: [natural-language-processing](https://github.com/topics/natural-language-processing), [nlp](https://github.com/topics/nlp)
 
 > Which programming languages?  C/C++, Java ==> python, NodeJS
 
@@ -79,6 +95,11 @@ SRI/DARPA
 
 > Who is missing?  Relative to their output in general: Apple, Samsung, eBay, Oracle, Xerox, MIT and Ivy League, Technion, UCx, Switzerland, India, France, Russia and Eastern Europe, OpenAI
 
+## Papers
+
+arXiv cs.CL: [archive](https://arxiv.org/archive/cs.CL) | [recent](https://arxiv.org/list/cs.CL/recent)  
+arXiv cs.LG: [archive](https://arxiv.org/archive/cs.LG) | [recent](https://arxiv.org/list/cs.LG/recent)
+
 ## Startups
 
 [angel.co/natural-language-processing](https://angel.co/natural-language-processing)
@@ -108,9 +129,10 @@ NIPS
 Google IO, F8, AWS DevDay...
 
 ## Competitions
-WMT, conferences  
+WMT workshops, conferences  
 Kaggle [text-data](https://www.kaggle.com/tags/text-data), [linguistics](https://www.kaggle.com/tags/linguistics), [languages](https://www.kaggle.com/tags/languages), [literature](https://www.kaggle.com/tags/literature)  
-annotated datasets like SQuAD and CLEVR
+annotated datasets like SQuAD and CLEVR  
+[Winograd Schema Challenge](https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/WS.html) ([wiki](https://en.wikipedia.org/wiki/Winograd_Schema_Challenge))
 
 ## Learning
 
@@ -124,6 +146,8 @@ https://github.com/oxford-cs-deepnlp-2017/lectures
 
 
 ### Tutorials
+
+https://fasttext.cc/docs/en/supervised-tutorial.html
 
 http://thestraightdope.mxnet.io/chapter05_recurrent-neural-networks/simple-rnn.html
 
@@ -173,10 +197,6 @@ http://approximatelycorrect.com/category/natural-language-processing/
 
 http://newsletter.ruder.io/
 
-https://www.reddit.com/r/LanguageTechnology/
-
-https://plus.google.com/communities/112547995826249627629
-
 https://www.producthunt.com/@bittlingmayer/collections
 
 http://nathan.ai
@@ -195,6 +215,25 @@ http://ruder.io/word-embeddings-2017/
 
 http://approximatelycorrect.com/2017/09/26/a-random-walk-through-emnlp-2017/
 
-https://aiindex.org/  
+http://norvig.com/spell-correct.html  
+http://norvig.com/chomsky.html  
+
+
+## Fora  
+
+[#nlproc](https://twitter.com/search?q=%23nlproc)
+
+https://www.reddit.com/r/LanguageTechnology/
+
+https://plus.google.com/communities/112547995826249627629
+
+http://linguistics.stackexchange.com/
+
+https://stackoverflow.com/questions/tagged/nlp
+
+https://datascience.stackexchange.com/questions/tagged/nlp
+
+https://opendata.stackexchange.com/questions/tagged/nlp
+
 
 
