@@ -30,6 +30,8 @@ natural language understanding
 natural language generation  
 speech - recognition, synthesis  
 classification - sentiment analysis, spam detection  
+relation extraction  
+coreference resolution  
 
 ## Applications
 
