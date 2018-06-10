@@ -146,6 +146,8 @@ https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7Ek
 
 https://github.com/oxford-cs-deepnlp-2017/lectures
 
+https://github.com/jacobeisenstein/gt-nlp-class/
+
 
 ### Tutorials
 
