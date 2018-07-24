@@ -12,7 +12,7 @@ AI Index - Natural Language Understanding
 
 ## Demos
 
-(https://explosion.ai/demos/)[explosion.ai/demos]
+[explosion.ai/demos](https://explosion.ai/demos/)
 
 ## Language
 
