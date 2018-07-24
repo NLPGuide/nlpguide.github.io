@@ -1,11 +1,6 @@
 # NLP Guide
 
-See also: [2018](/2018), [2017](/2017)
-
-TODO: related fields - machine learning, linguistics
-TODO: subfields
-
-TODO: guide for engineers vs guide for ML researchers
+See also: [2018](/2018), [2017](/2017)  
 
 ## Metrics
 
@@ -244,4 +239,7 @@ https://datascience.stackexchange.com/questions/tagged/nlp
 https://opendata.stackexchange.com/questions/tagged/nlp
 
 
-
+## TODO
+related fields - machine learning, linguistics  
+subfields  
+guide for engineers vs guide for ML researchers
