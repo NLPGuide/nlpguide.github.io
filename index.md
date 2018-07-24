@@ -15,6 +15,10 @@ EFF AI Metrics - Written Language, Spoken Language
 AI Index - Natural Language Understanding  
 [aiindex.org](https://aiindex.org/2017-report.pdf)
 
+## Demos
+
+(https://explosion.ai/demos/)[explosion.ai/demos]
+
 ## Language
 
 https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
