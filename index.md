@@ -1,8 +1,11 @@
 # NLP Guide
 
+Edit this guide at [github.com/NLPGuide](https://github.com/NLPGuide/)
 See also: [2018](/2018), [2017](/2017)  
 
-## Metrics
+## Progress
+
+[NLP Progress](https://nlpprogress.com/)
 
 EFF AI Metrics - Written Language, Spoken Language  
 [eff.org/ai/metrics](https://www.eff.org/ai/metrics)
