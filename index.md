@@ -19,11 +19,7 @@ AI Index - Natural Language Understanding
 
 ## Language
 
-Definitions of language are often political and not consistent.  For our purposes we defer to https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes.
-
-Note 1: Some major libs and services use non-standard codes.  (For example, Google Translate uses `jw` not `jv` for Javanese, and `iw` not `he` for Hebrew.  
-
-Note 2: Confusion with country codes is common.
+Definitions of language are often political and not consistent.  For our purposes by default we defer to https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes.  Some major libs and services use non-standard codes.  (For example, Google Translate uses `jw` not `jv` for Javanese, and `iw` not `he` for Hebrew.) Confusion with country codes is common.
 
 ## Tasks  
 
