@@ -5,7 +5,8 @@ See also: [2018](/2018), [2017](/2017)
 
 ## Progress
 
-[NLP Progress](https://nlpprogress.com/)
+NLP Progress  
+[nlpprogress.com](https://nlpprogress.com/)
 
 EFF AI Metrics - Written Language, Spoken Language  
 [eff.org/ai/metrics](https://www.eff.org/ai/metrics)
