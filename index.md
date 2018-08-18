@@ -1,8 +1,12 @@
 # NLP Guide
 
+This is an open guide to natural language processing.
+
 *Edit this guide at [github.com/NLPGuide](https://github.com/NLPGuide/)*
 
 ## Progress
+
+See also: NLP Guide for [2018](/2018) and [2017](/2017)  
 
 NLP Progress  
 [nlpprogress.com](https://nlpprogress.com/)
@@ -12,8 +16,6 @@ EFF AI Metrics - Written Language, Spoken Language
 
 AI Index - Natural Language Understanding  
 [aiindex.org](https://aiindex.org/2017-report.pdf)
-
-See also: NLP Guide for [2018](/2018) and [2017](/2017)  
 
 ## Demos
 
