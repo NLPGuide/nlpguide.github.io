@@ -152,6 +152,8 @@ https://github.com/oxford-cs-deepnlp-2017/lectures
 
 https://github.com/jacobeisenstein/gt-nlp-class/
 
+http://phontron.com/class/mtandseq2seq2018/
+
 
 ### Tutorials
 
