@@ -174,6 +174,11 @@ https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning
 2013  
 Emily M. Bender, University of Washington  
 
+[*Neural Network Methods for Natural Language Processing*](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037)
+2017  
+Yoav Goldberg, Bar-Ilan University  
+Graeme Hirst, University of Toronto  
+
 [*A Primer on Neural Network Models for Natural Language Processing*](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
 2015 draft  
 Yoav Goldberg, Bar-Ilan University  
