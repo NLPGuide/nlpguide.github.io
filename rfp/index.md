@@ -1,5 +1,5 @@
 # Requests for Projects
-## A list of novel but doable projects in natural language processing
+*A list of novel but doable projects in natural language processing*
 
 Inspired by YCombinator's [*Requests for Startups*](https://www.ycombinator.com/rfs/), here is a list of novel but doable projects in natural language processing.
 
