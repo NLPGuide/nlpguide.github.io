@@ -1,9 +1,13 @@
-
+### Classification
 Given a URL, predict whether or not it is an image.
 
 Given an HTML element, predict whether or not it is an advertisement that should be blocked.  (See rules files for adblockers)
 
-Given a string, fix the encoding to make it more human-readable if necessary.
+Language identification for written variants of English like British, American, Canadian and Indian  
+
+### Sequences / Generation
+
+Given a string, fix the encoding to make it more human-readable if necessary
 
 Given HTML, generate Markdown (.md)
 
@@ -21,11 +25,11 @@ Given a research paper, generate a blog post
 
 Given a question on StackExchange, generate an answer or comment
 
-Language identification for written variants of English like British, American, Canadian and Indian  
-
 Translation between British and American English, or Eastern and Western Armenian
 
 Generate and/or disambiguate between variants and translations of proper names - person names, placenames and organisation names
+
+Transliteration for multiple languages and scripts in one model
 
 ### Visualisation / Interpretability
 
