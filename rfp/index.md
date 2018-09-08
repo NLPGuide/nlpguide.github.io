@@ -42,6 +42,8 @@ Generate and/or disambiguate between variants and translations of proper names -
 
 Transliteration for multiple languages and scripts in one model
 
+Translation for multiple language pairs in one model
+
 
 ### Speech
 
