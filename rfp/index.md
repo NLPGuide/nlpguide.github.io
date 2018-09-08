@@ -22,6 +22,7 @@ Given a screenshot of a website, generate HTML
 (What to do about images?)
 
 Given a research paper, generate a blog post
+Given a blog post, generate a research paper
 
 Given a question on StackExchange, generate an answer or comment
 
