@@ -85,6 +85,12 @@ Enron emails
 
 > For which tasks is there data?  For which languages is there data?
 
+## Benchmarks
+
+[GLUE](https://gluebenchmark.com/)
+
+BLEU, METEOR
+
 ## Research Orgs
 Google, Bing, Baidu, Yandex, Amazon, Facebook
 Twitter, Fuji Xerox, NTT, Rakuten, SAP, eBay
