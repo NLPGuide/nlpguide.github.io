@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-## I want to start a career in natural language processing.  Which courses should I take?
+### I want to start a career in natural language processing.  Which courses should I take?
 
 calculus, linear algebra, probability theory, natural language processing, machine learning, deep learning
 
