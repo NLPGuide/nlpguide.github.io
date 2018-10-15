@@ -200,7 +200,6 @@ annotated datasets like SQuAD and CLEVR
 http://cs224n.stanford.edu / http://cs224d.stanford.edu  
 https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
-
 https://github.com/oxford-cs-deepnlp-2017/lectures
 
 https://github.com/jacobeisenstein/gt-nlp-class/
@@ -294,6 +293,8 @@ http://norvig.com/chomsky.html
 [#nlproc](https://twitter.com/search?q=%23nlproc)
 
 https://www.reddit.com/r/LanguageTechnology/
+
+https://www.reddit.com/r/machinetranslation/
 
 https://plus.google.com/communities/112547995826249627629
 
