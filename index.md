@@ -197,15 +197,17 @@ annotated datasets like SQuAD and CLEVR
 
 ### Courses
 
-http://cs224n.stanford.edu / http://cs224d.stanford.edu
-
+http://cs224n.stanford.edu / http://cs224d.stanford.edu  
 https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+
 
 https://github.com/oxford-cs-deepnlp-2017/lectures
 
 https://github.com/jacobeisenstein/gt-nlp-class/
 
 http://phontron.com/class/mtandseq2seq2018/
+
+https://www.youtube.com/watch?v=OzZIOiMVUyM&index=79&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
 
 
 ### Tutorials
