@@ -76,5 +76,10 @@ Modify fastText `test` to list out rows from the test set that were most strongl
 
 Diff fastText models trained on different datasets or with different parameters
 
+### Speech
+
+Accent reduction - for foreign or regional accents
+
+
 
 
