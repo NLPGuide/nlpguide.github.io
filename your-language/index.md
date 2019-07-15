@@ -1,7 +1,7 @@
 # How to get top platforms to support your language
 
 The optimum course of action depends on your goal.
-Getting support for speech recognition, translation and something yet to be invented are very different.
+Getting support for speech recognition, mobile keyboard input, transliteration, translation and something yet to be invented are very different.
 Here we will mention basic things that you should do for almost all core features on all platforms.
 
 ## Get an ISO code
